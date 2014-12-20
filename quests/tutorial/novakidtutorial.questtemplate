@@ -1,0 +1,14 @@
+{
+  "id" : "novakidtutorial.gearup",
+  "title" : "^orange;Um Big Bang",
+  "text" : "Eu nao lembro como eu chegei aqui... minha nave foi danificada... Eu precisarei ^green;reparar os propulsores da nave e consertar o casco.",
+  "completionText" : "Yeehaw, a velha garota ainda vive. Agora eu irei reparar o propulsor FTL.",
+  "conditions" : [
+    { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
+  ],
+  "moneyRange" : [500, 500],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "ftlrepairmain.gearup",
+  "canBeAbandoned" : false
+}

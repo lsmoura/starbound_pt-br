@@ -1,7 +1,7 @@
 {
   "id" : "tutorial1.gearup",
   "title" : "^yellow;Tutorial I: Um Feixe de Luz",
-  "text" : "A primeira coisa que eu deveria fazer é checar o armário da nave. ^green;Eu precisarei de pelo menos de uma ^orange;lanterna, ^white;mas deve haver outros suprimentos lá também.",
+  "text" : "A primeira coisa que eu deveria fazer e checar o armario da nave. ^green;Eu precisarei de pelo menos de uma ^orange;lanterna,^white; mas devem haver outros suprimentos la tambem.",
   "completionText" : "Uma lanterna, uma arma e algumas tochas por garantia... Hora de descer para o planeta!",
   "conditions" : [
     { "kind" : "gather", "item" : [ "flashlight", 1], "consume" : false }
