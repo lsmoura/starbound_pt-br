@@ -1,0 +1,14 @@
+{
+  "id" : "aviantutorial.gearup",
+  "title" : "^orange;Abra Suas Asas",
+  "text" : "Eu escapei da furia dos Stargazers por pouco. Minha nave foi danificada durante minha fuga. Para me manter em movimento eu tenho que ^green;reparar os propulsores da nave e consertar o casco.",
+  "completionText" : "A nave vive! Ainda ha trabalho a fazer e eu preciso consertar o propulsor FTL. Mas e um comeco!",
+  "conditions" : [
+    { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
+  ],
+  "moneyRange" : [500, 500],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "ftlrepairmain.gearup",
+  "canBeAbandoned" : false
+}
