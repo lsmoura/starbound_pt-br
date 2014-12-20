@@ -1,0 +1,11 @@
+{
+  "name" : "pt-br quests",
+  "version" : "Beta v. Enraged Koala",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Sergio Moura",
+    "version" : "0.1",
+    "description" : "Quests do starbound traduzidas para o Portugues (Brasil)."
+  }
+}
